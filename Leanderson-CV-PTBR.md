@@ -13,11 +13,30 @@ Essas são algumas das tecnologias com as quais eu tenho experiência:
 - SQL
 - Oracle Database
 - GIT
-- JavaScript
+- JavaScript/CSS/Html
 - Python
 - Ruby
 
 ## EXPERIÊNCIA
+
+### Desenvolvedor Freelancer
+**Didox Business & Technology | São Paulo, Brasil**  
+*Novembro 2023*
+- Desenvolvimento do layout utilizando as tecnologias React e Next.js, aplicando boas práticas de design e garantindo uma experiência de usuário aprimorada.
+- Integração eficiente com a API por meio da utilização do Swagger, facilitando a comunicação entre o frontend e o backend da aplicação.
+- Colaboração estreita com a equipe de backend, implementando integrações com o backend desenvolvido em C# e o framework .NET para garantir a sincronia perfeita entre as camadas do sistema.
+- Estabelecimento e manutenção de um processo de comunicação eficaz com o cliente, incluindo relatórios diários e feedback detalhado sobre o progresso da aplicação.
+- Manutenção de uma documentação técnica abrangente para facilitar futuras expansões e atualizações do sistema.
+
+### Desenvolvedor Freelancer
+**Workana | São Paulo, Brasil**  
+*Agosto 2023 - Outubro 2023*
+- Conduzi alterações significativas no layout de um dashboard utilizando Angular, proporcionando uma experiência de usuário mais intuitiva e eficiente.
+- Organização do script de teste e verificação da operação da aplicação após cada implantação, garantindo a integridade do sistema.
+- Avaliação e correção de vulnerabilidades identificadas por uma ferramenta interna de teste contínuo, fortalecendo a segurança da aplicação.
+- Colaboração ativa na melhoria contínua do backend, desenvolvido em Python utilizando o framework Django, otimizando a eficácia e a escalabilidade do sistema.
+- Integração e configuração de APIs externas para expandir as funcionalidades da aplicação.
+- Contribuição para o aprimoramento contínuo do processo de desenvolvimento, sugerindo e implementando melhorias com base na experiência prática.
 
 ### Desenvolvedor de Software Júnior
 **Wipro | Curitiba, Brazil**  
@@ -37,19 +56,6 @@ Essas são algumas das tecnologias com as quais eu tenho experiência:
 - Especificações técnicas e funcionais
 - Criação e análise de casos de teste
 
-### Customer Relationship Management (CRM)
-**Mottu | São Paulo, Brasil**  
-*Outubro 2020 - Novembro 2021*
-- Vendas
-- Uso constante do SQL para consultas
-- Experiência com Azure DevOps
-- Edição de entradas diretamente no banco de dados
-- Análise de relatórios da Idwall
-- Conferência sobre o sistema de multas LW
-- Experiência com sistemas Octadesk e Zendesk
-- Contato ativo para avaliar a experiência do usuário
-- Tratamento de casos de emergência (roubo, furto, acidentes e eventos imprevistos).
-
 ## FORMAÇÃO ACADÊMICA
 **Bacharelado | Engenharia de Software**  
 *Ampli, São Paulo, Brasil*  
@@ -62,6 +68,7 @@ O curso de Engenharia de Software me prepara para desenvolver programas, ferrame
 - GFT Quality Assurance #1
 - Formação Ruby Developer
 - QA TRIP (Testes em Python)
+- Ruby Developer
 
 ## LINKEDIN
 - [LinkedIn](https://www.linkedin.com/in/leanderson-dias-de-lima/)
