@@ -62,6 +62,8 @@ Essas são algumas das tecnologias com as quais eu tenho experiência:
 O curso de Engenharia de Software me prepara para desenvolver programas, ferramentas e aplicações tecnológicas que abordam desafios organizacionais complexos. Com uma grade curricular que abrange tópicos como Algoritmos, Programação Estruturada, Arquitetura de Computadores, Análise de Sistemas, Engenharia de Requisitos e Arquitetura de Software, o curso me capacita a executar tarefas com maior eficiência operacional. 
 
 ## CERTIFICAÇÕES
+- Decola Tech .NET
+- Pottencial .NET Developer
 - Treinamento Código do Futuro em linguagens .Net e Angular
 - Algoritmo
 - Fundamentos do .Net
@@ -73,6 +75,7 @@ O curso de Engenharia de Software me prepara para desenvolver programas, ferrame
 ## LINKEDIN
 - [LinkedIn](https://www.linkedin.com/in/leanderson-dias-de-lima/)
 
-## GITHUB
+## PORTFOLIO
 - [GitHub - LeanLima7](https://github.com/LeanLima7)
 - [GitHub - LeanDevLima](https://github.com/LeanDevLima)
+- [GitLab - LeanDevLima](https://gitlab.com/LeanDevLima)
