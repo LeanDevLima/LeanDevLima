@@ -19,26 +19,16 @@ Here are some of the technologies I have experience with:
 
 ## EXPERIENCE
 
-### Freelance Developer
+### Developer
 **Didox Business & Technology | São Paulo, Brazil**  
-*November 2023*
+*November 2023 - December 2023*
 - Developed the layout using React and Next.js technologies, applying good design practices and ensuring an enhanced user experience.
 - Efficiently integrated with the API using Swagger, facilitating communication between the frontend and backend of the application.
 - Collaborated closely with the backend team, implementing integrations with the C# developed backend and .NET framework to ensure seamless synchronization across system layers.
 - Established and maintained an effective communication process with the client, including daily reports and detailed feedback on application progress.
 - Maintained comprehensive technical documentation to facilitate future expansions and system updates.
 
-### Freelance Developer
-**Workana | São Paulo, Brazil**  
-*August 2023 - October 2023*
-- Led significant layout changes in a dashboard using Angular, providing a more intuitive and efficient user experience.
-- Organized test scripts and verified application operation after each deployment, ensuring system integrity.
-- Evaluated and corrected vulnerabilities identified by an internal continuous testing tool, strengthening application security.
-- Actively collaborated in the continuous improvement of the Python-developed backend using Django framework, optimizing system effectiveness and scalability.
-- Integrated and configured external APIs to expand application functionalities.
-- Contributed to the ongoing enhancement of the development process, suggesting and implementing improvements based on practical experience.
-
-### Junior Software Developer
+### Software Developer
 **Wipro | Curitiba, Brazil**  
 *June 2022 - June 2023*
 - Monitored scripts performing tasks in a database management system (DBMS).

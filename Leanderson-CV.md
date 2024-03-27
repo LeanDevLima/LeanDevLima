@@ -24,27 +24,17 @@ Essas são algumas das tecnologias com as quais eu tenho experiência:
 
 ## EXPERIÊNCIA
 
-### Desenvolvedor Pleno
+### Desenvolvedor
 **Didox Business & Technology | São Paulo, Brasil**  
-*Novembro 2023*
+*Novembro 2023 - Dezembro 2023*
 - Desenvolvimento do layout utilizando as tecnologias React e Next.js, aplicando boas práticas de design e garantindo uma experiência de usuário aprimorada.
 - Integração eficiente com a API por meio da utilização do Swagger, facilitando a comunicação entre o frontend e o backend da aplicação.
 - Colaboração estreita com a equipe de backend, implementando integrações com o backend desenvolvido em C# e o framework .NET para garantir a sincronia perfeita entre as camadas do sistema.
 - Estabelecimento e manutenção de um processo de comunicação eficaz com o cliente, incluindo relatórios diários e feedback detalhado sobre o progresso da aplicação.
 - Manutenção de uma documentação técnica abrangente para facilitar futuras expansões e atualizações do sistema.
 
-### Desenvolvedor Pleno
-**Workana | São Paulo, Brasil**  
-*Agosto 2023 - Outubro 2023*
-- Conduzi alterações significativas no layout de um dashboard utilizando Angular, proporcionando uma experiência de usuário mais intuitiva e eficiente.
-- Organização do script de teste e verificação da operação da aplicação após cada implantação, garantindo a integridade do sistema.
-- Avaliação e correção de vulnerabilidades identificadas por uma ferramenta interna de teste contínuo, fortalecendo a segurança da aplicação.
-- Colaboração ativa na melhoria contínua do backend, desenvolvido em Python utilizando o framework Django, otimizando a eficácia e a escalabilidade do sistema.
-- Integração e configuração de APIs externas para expandir as funcionalidades da aplicação.
-- Contribuição para o aprimoramento contínuo do processo de desenvolvimento, sugerindo e implementando melhorias com base na experiência prática.
-- Participei de reuniões conduzidas exclusivamente em Inglês.
 
-### Desenvolvedor de Software Júnior
+### Desenvolvedor 
 **Wipro | Curitiba, Brazil**  
 *Junho 2022 - Junho 2023*
 - Monitoramento de scripts que executam tarefas em um sistema de gerenciamento de banco de dados (DBMS)
