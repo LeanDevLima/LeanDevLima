@@ -3,9 +3,10 @@
 **leanderson.devlima@gmail.com**
 
 ## RESUMO
-Desenvolvedor BackEnd de Barueri, Brasil, especializado em **C#** e **.Net**, com proficiência em **SQL**, **Entity Framework** e integração Front End (HTML, CSS e JavaScript). Experiência em projetos com comunicação em **inglês**. Atualmente cursando **Engenharia de Software** e buscando certificações em Cloud da AWS. Prático em tecnologias como **.NET Framework**, **ASP.NET MVC**, **Oracle Database** e **GIT**. Habilidades crescentes em **Ruby**, **C#** e **Python**.
+Desenvolvedor BackEnd de Barueri, Brasil, com experiência em **C#** e **.Net**, com proficiência em **SQL**, **Entity Framework** e integração Front End (HTML, CSS e JavaScript). Experiência em projetos com comunicação em **inglês**. Atualmente cursando **Engenharia de Software**. Prático em tecnologias como **GIT**, **Banco de Dados**. Habilidades crescentes em **Ruby**, **C#** e **Python**.
 
 ## COMPETÊNCIAS
+- Cloud AWS
 - C#
 - .NET Framework
 - ASP.NET MVC
@@ -20,6 +21,12 @@ Desenvolvedor BackEnd de Barueri, Brasil, especializado em **C#** e **.Net**, co
 - Inglês (Avançado)
 
 ## EXPERIÊNCIA
+
+### DevOps Engineer - Criadigi | São Paulo, Brasil
+*Abril 2024 - Atual*
+- Monitoramento dos indicadores do Cloudflare, incluindo análise de IPs de acesso, detecção de atividades suspeitas e bloqueio de IPs maliciosos.
+- Implantação de projetos na AWS, configuração de serviços como Amazon EC2, Amazon Work E-mail, Amazon SES, Route 53, DNS e emissão de certificados HTTPS.
+- Colaboração com equipes internas para garantir a segurança e o desempenho dos sites.
 
 ### Desenvolvedor - Didox Business & Technology | São Paulo, Brasil
 *Novembro 2023 - Dezembro 2023*
@@ -48,12 +55,12 @@ Desenvolvedor BackEnd de Barueri, Brasil, especializado em **C#** e **.Net**, co
 
 ## CERTIFICAÇÕES
 
-| [Decola Tech .NET](https://www.dio.me/certificate/54090C77/share)              | [Treinamento Código do Futuro em .Net e Angular](https://drive.google.com/file/d/1_Pz-Vl8MzRW7ZwAzUadwFfLMtposApf0/view) |
+| [Decola Tech .NET](https://www.dio.me/certificate/54090C77/share) | [Future Code Training in .Net and Angular](https://drive.google.com/file/d/1_Pz-Vl8MzRW7ZwAzUadwFfLMtposApf0/view) |
 |-----------------------------------|---------------------------------------------------|
-| [Pottencial .NET Developer](https://www.dio.me/certificate/2A13B283/share)     | [Algoritmo](https://www.cursoemvideo.com/validacao-de-certificado/?codigo=4587B-6297-8)                                     |
-| [Formação .NET Developer](https://www.dio.me/certificate/410C3197/share)           | [GFT Quality Assurance #1](https://www.dio.me/certificate/E6C3C215/share)                      |
-| [Formação Ruby Developer](https://www.dio.me/certificate/752C8C55/share)       | [QA TRIP (Testes em Python)](https://github.com/LeanDevLima/CertificadoQA_IJJ/blob/main/CertificadoQA.pdf)                    |
-| [Ruby Developer](https://www.dio.me/certificate/752C8C55/share)                | [Programação Web Full Stack](https://edu.campinhodigital.org/pluginfile.php/1/tool_certificate/issues/1707529983/7551229725LD.pdf)                                                  |
+| [Pottencial .NET Developer](https://www.dio.me/certificate/2A13B283/share) | [Algorithm](https://www.cursoemvideo.com/validacao-de-certificado/?codigo=4587B-6297-8) |
+| [.NET Developer Formation](https://www.dio.me/certificate/410C3197/share) | [GFT Quality Assurance #1](https://www.dio.me/certificate/E6C3C215/share) |
+| [Ruby Developer Formation](https://www.dio.me/certificate/752C8C55/share) | [QA TRIP (Python Testing)](https://github.com/LeanDevLima/CertificadoQA_IJJ/blob/main/CertificadoQA.pdf) |
+| [Cloud Solutions](https://drive.google.com/file/d/1lJL6jZe2gvy-0PpE9GpYZ5Q1bGpdAh-a/view)  | [Full Stack Web Programming](https://edu.campinhodigital.org/pluginfile.php/1/tool_certificate/issues/1707529983/7551229725LD.pdf) | |                                               |
 
 
 
