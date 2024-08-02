@@ -1,78 +1,67 @@
 # LEANDERSON DIAS DE LIMA
+**https://www.linkedin.com/in/leanderson-dias-de-lima/**    
+**https://github.com/LeanDevLima**   
 **+5511940139899**  
-**leanderson.devlima@gmail.com**
+**leanderson.devlima@gmail.com**                      
 
-## RESUMO
-Sou Leanderson Dias de Lima, um desenvolvedor de software de Barueri, Brasil, com vasta experiência em **Full Stack** usando **C#** e **.Net** no **Back End**, especialmente em administração e implantação de bancos de dados com **SQL** e **Entity Framework** para integração com **Front End (HTML, CSS e JavaScript)**. _Já trabalhei em projetos onde a comunicação é somente em **Inglês**_. Atualmente, estou cursando Engenharia de Software e tenho proficiência em tecnologias como **.NET Framework**, **ASP.NET MVC**, **Oracle Database** e **GIT**, e estou sempre aprimorando minhas habilidades em **Ruby**, **C#** e **Python**, meu foco atual é conquistar as _certificações_ de **Cloud da AWS**. Estou preparado para contribuir como um recurso valioso em projetos de desenvolvimento e manutenção de software.
 
-## COMPETÊNCIAS
-Essas são algumas das tecnologias com as quais eu tenho experiência:
+## SUMMARY
+Developer from Barueri, Brazil, with experience in **C#** and **.NET**, with proficiency in **SQL**, **Entity Framework**, and Front End integration (HTML, CSS, and JavaScript). Experienced in projects with communication in **English**. Currently pursuing a **Software Engineering** degree. Practical with technologies such as **GIT** and **Databases**, and expanding expertise in **Ruby**, **C#**, and **Python**.
+
+## SKILLS
+- Cloud AWS
 - C#
-- .NET Framework
-- ASP.NET MVC
-- SQL (Administração e Deploy)
-- Oracle Database (Administração e Deploy)
+- SQL
 - GIT
-- JavaScript/CSS/Html
+- JavaScript/CSS/HTML
 - Python
 - Ruby
+- Rails
+- Collaboration
+- Organization
+- Problem-Solving
+- Adaptability
 
-## IDIOMAS
+## LANGUAGES
 
-- Português (Nativo)
-- Inglês (Conversação e Escrita) 
-
-## EXPERIÊNCIA
-
-### Desenvolvedor
-**Didox Business & Technology | São Paulo, Brasil**  
-*Novembro 2023 - Dezembro 2023*
-- Desenvolvimento do layout utilizando as tecnologias React e Next.js, aplicando boas práticas de design e garantindo uma experiência de usuário aprimorada.
-- Integração eficiente com a API por meio da utilização do Swagger, facilitando a comunicação entre o frontend e o backend da aplicação.
-- Colaboração estreita com a equipe de backend, implementando integrações com o backend desenvolvido em C# e o framework .NET para garantir a sincronia perfeita entre as camadas do sistema.
-- Estabelecimento e manutenção de um processo de comunicação eficaz com o cliente, incluindo relatórios diários e feedback detalhado sobre o progresso da aplicação.
-- Manutenção de uma documentação técnica abrangente para facilitar futuras expansões e atualizações do sistema.
+| Portuguese (Native) | English (Advanced) |
+|---------------------|---------------------|
 
 
-### Desenvolvedor 
-**Wipro | Curitiba, Brazil**  
-*Junho 2022 - Junho 2023*
-- Monitoramento de scripts que executam tarefas em um sistema de gerenciamento de banco de dados (DBMS)
-- Administração e deploy de uma aplicação feita em C# Asp .NET Framework, Versão 4.0
-- Registro e atualização constante da base de conhecimento da equipe (Confluence)
-- Organizar o script de teste e garantir a operação da aplicação após cada implantação
-- Verificar e avaliar as vulnerabilidades apresentadas por uma ferramenta interna que testa constantemente a aplicação.
-- As reuniões para relatórios eram realizadas inteiramente em inglês.
+## EXPERIENCE
 
-### Analista de Teste de Qualidade (QA)
-**Keeggo | São Paulo, Brasil**  
-*Janeiro 2022 - Junho 2022*
-- Análise de BITS MAP de acordo com a ISO 8583, avaliação de erros encontrados durante a certificação, suporte aos desenvolvedores de POS, POS e aplicativos móveis
-- Criação de evidências de teste
-- Execução de testes
-- Especificações técnicas e funcionais
-- Criação e análise de casos de teste
+### DevOps Engineer - Criadigi | São Paulo, Brazil
+*April 2024 - Present*
+- Monitored Cloudflare indicators, including analysis of access IPs, detection of suspicious activities, and blocking of malicious IPs.
+- Deployed projects on AWS, configuring services such as Amazon EC2, Amazon WorkMail, Amazon SES, Route 53, DNS, and issuance of HTTPS certificates.
+- Collaborated with internal teams to enhance site security and performance, leading to a 20% reduction in incident response time.
 
-## FORMAÇÃO ACADÊMICA
-**Bacharelado | Engenharia de Software**  
-*Ampli, São Paulo, Brasil*  
-O curso de Engenharia de Software me prepara para desenvolver programas, ferramentas e aplicações tecnológicas que abordam desafios organizacionais complexos. Com uma grade curricular que abrange tópicos como Algoritmos, Programação Estruturada, Arquitetura de Computadores, Análise de Sistemas, Engenharia de Requisitos e Arquitetura de Software, o curso me capacita a executar tarefas com maior eficiência operacional. 
+### Developer - Didox Business & Technology | São Paulo, Brazil
+*November 2023 - December 2023*
+- Developed layouts using React and Next.js, improving user interface performance by 30%.
+- Efficiently integrated with APIs via Swagger, resulting in a 15% decrease in integration time.
+- Collaborated closely with the backend team using C# and .NET, ensuring seamless front-end and back-end integration.
 
-## CERTIFICAÇÕES
-- Decola Tech .NET
-- Pottencial .NET Developer
-- Treinamento Código do Futuro em linguagens .Net e Angular
-- Algoritmo
-- Fundamentos do .Net
-- GFT Quality Assurance #1
-- Formação Ruby Developer
-- QA TRIP (Testes em Python)
-- Ruby Developer
+### Developer - Wipro | Curitiba, Brazil
+*June 2022 - June 2023*
+- Administered and deployed C# ASP.NET Framework applications, optimizing performance and reducing downtime by 25%.
+- Monitored and organized scripts, updating the knowledge base to reflect recent changes and best practices.
+- Facilitated English communication in report meetings, providing clear and concise updates on project status.
 
-## LINKEDIN
-- [LinkedIn](https://www.linkedin.com/in/leanderson-dias-de-lima/)
+### Quality Assurance (QA) Test Analyst - Keeggo | São Paulo, Brazil
+*January 2022 - June 2022*
+- Analyzed BITS MAP according to ISO 8583, identifying and resolving discrepancies that enhanced system accuracy.
+- Created and executed tests, developed technical and functional specifications, and analyzed test cases to ensure quality standards were met.
 
-## PORTFOLIO
-- [GitHub - LeanLima7](https://github.com/LeanLima7)
-- [GitHub - LeanDevLima](https://github.com/LeanDevLima)
-- [GitLab - LeanDevLima](https://gitlab.com/LeanDevLima)
+## EDUCATION
+**Bachelor's Degree in Software Engineering**  
+*Univesp, São Paulo, Brazil*
+
+## CERTIFICATIONS
+
+| [Decola Tech .NET](https://www.dio.me/certificate/54090C77/share) | [Future Code Training in .NET and Angular](https://drive.google.com/file/d/1_Pz-Vl8MzRW7ZwAzUadwFfLMtposApf0/view) |
+|-----------------------------------|---------------------------------------------------|
+| [Pottencial .NET Developer](https://www.dio.me/certificate/2A13B283/share) | [Algorithm](https://www.cursoemvideo.com/validacao-de-certificado/?codigo=4587B-6297-8) |
+| [.NET Developer Formation](https://www.dio.me/certificate/410C3197/share) | [GFT Quality Assurance #1](https://www.dio.me/certificate/E6C3C215/share) |
+| [Ruby Developer Formation](https://www.dio.me/certificate/752C8C55/share) | [QA TRIP (Python Testing)](https://github.com/LeanDevLima/CertificadoQA_IJJ/blob/main/CertificadoQA.pdf) |
+| [Cloud Solutions](https://drive.google.com/file/d/1lJL6jZe2gvy-0PpE9GpYZ5Q1bGpdAh-a/view)  | [Full Stack Web Programming](https://edu.campinhodigital.org/pluginfile.php/1/tool_certificate/issues/1707529983/7551229725LD.pdf) |

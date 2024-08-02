@@ -7,7 +7,6 @@ BackEnd developer from Barueri, Brazil, with experience in **C#** and **.Net**, 
 
 ## SKILLS
 - Cloud AWS
-- C#
 - .NET Framework
 - ASP.NET MVC
 - SQL
