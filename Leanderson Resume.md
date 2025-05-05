@@ -6,30 +6,28 @@
 
 
 ## RESUMO
-Desenvolvedor de Barueri, Brasil, com experiência em **C#** e **.NET**, com proficiência em **SQL**, **Entity Framework** e integração Front End (HTML, CSS e JavaScript) . Experiente em projetos com comunicação em **Inglês**. Atualmente cursando **Engenharia de Software**. Prático com tecnologias como **GIT** e **Bancos de dados** e conhecimento ampliado em **Ruby**, **C#** e **Python**.
+Desenvolvedor de Barueri, Brasil, com experiência em **C#** e **.NET**, com proficiência em **SQL**, **GIT** . Experiente em projetos com comunicação em **Inglês**. Atualmente cursando **Engenharia de Software**. Prático com tecnologias como **GIT** e **Bancos de dados** e conhecimento ampliado em **C#**, **Ruby**, **Python**, **GCP** e **AWS**.
 
 ## SKILLS
-- Cloud AWS
-- SQL
-- GIT
-- JavaScript/CSS/HTML
-- Python
-- Ruby
-- Rails
-- Colaboração
-- Organização
-- Solução de problemas
-- Adaptabilidade
+
+| **Tecnologias**       | **Soft Skills**        |
+|-----------------------|------------------------|
+| Cloud AWS             | Colaboração            |
+| SQL                   | Organização            |
+| Git                   | Solução de problemas   |
+| C# .NET               | Adaptabilidade         |
+| Python                | Comunicação            |
+| Ruby on Rails         | Trabalho em equipe     |
 
 ## IDIOMAS
 
-| Português (Native) | Inglês (Advanced) |
-|---------------------|---------------------|
+| Português (Native)  | Inglês (Advanced)   |  Francês(Beginner)  |
+|---------------------|---------------------|---------------------|
 
 
 ## EXPERIENCIA
 
-### DevOps - Criadigi | São Paulo, Brasil
+### Analista de Infraestrutura - Criadigi | São Paulo, Brasil
 *Abril de 2024 - presente*
 - Monitoramento de indicadores Cloudflare, incluindo análise de IPs de acesso, detecção de atividades suspeitas e bloqueio de IPs maliciosos.
 - Implantei projetos na AWS, configurando serviços como Amazon EC2, Amazon WorkMail, Amazon SES, Route 53, DNS e emissão de certificados HTTPS.
@@ -58,9 +56,8 @@ Desenvolvedor de Barueri, Brasil, com experiência em **C#** e **.NET**, com pro
 
 ## CERTIFICATIONS
 
-| [Decola Tech .NET](https://www.dio.me/certificate/54090C77/share) | [Future Code Training in .NET and Angular](https://drive.google.com/file/d/1_Pz-Vl8MzRW7ZwAzUadwFfLMtposApf0/view) |
+| [Google Cloud Cybersecurity Certificate](https://www.credly.com/badges/54d00f62-1f62-4bc1-aec4-76ec6377f321/linked_in?t=sojrht) | [Google Cloud Computing Foundations Certificate](https://www.credly.com/badges/0f774cba-852b-48bd-bef5-3f2b20f2036a/linked_in?t=smtpol) |
 |-----------------------------------|---------------------------------------------------|
 | [Pottencial .NET Developer](https://www.dio.me/certificate/2A13B283/share) | [Algorithm](https://www.cursoemvideo.com/validacao-de-certificado/?codigo=4587B-6297-8) |
-| [.NET Developer Formation](https://www.dio.me/certificate/410C3197/share) | [GFT Quality Assurance #1](https://www.dio.me/certificate/E6C3C215/share) |
-| [Ruby Developer Formation](https://www.dio.me/certificate/752C8C55/share) | [QA TRIP (Python Testing)](https://github.com/LeanDevLima/CertificadoQA_IJJ/blob/main/CertificadoQA.pdf) |
+| [.NET Developer Formation](https://www.dio.me/certificate/410C3197/share) | [Ruby Developer Formation](https://www.dio.me/certificate/752C8C55/share) | [QA TRIP (Python Testing)](https://github.com/LeanDevLima/CertificadoQA_IJJ/blob/main/CertificadoQA.pdf) |
 | [Cloud Solutions](https://drive.google.com/file/d/1lJL6jZe2gvy-0PpE9GpYZ5Q1bGpdAh-a/view)  | [Full Stack Web Programming](https://edu.campinhodigital.org/pluginfile.php/1/tool_certificate/issues/1707529983/7551229725LD.pdf) |
