@@ -39,7 +39,7 @@ Olá! Sou o **Leanderson Lima**, desenvolvedor com experiência em **back-end (C
 |---------|------------|-----------|
 | [DevFreela.API](https://github.com/LeanDevLima/DevFreela.API) | C# .NET | API para plataforma freelancer |
 | [docker_compose](https://github.com/LeanDevLima/docker_compose) | Docker | Orquestração de containers |
-| [Embalagem de Pedidos](https://github.com/LeanDevLima/EmbalagemPedidos) | Ruby on Rails | Sistema para petshops |
+| [Embalagem de Pedidos](https://github.com/LeanDevLima/EmbalagemPedidos) | C# .NET | API para sistema logístico |
 
 ---
 
